@@ -13,4 +13,4 @@ COPY . .
 # GUI için ortam değişkeni (X11)
 ENV DISPLAY=:0
 
-CMD ["python", "turtle_race.py"]
+CMD ["python", "main.py"]
